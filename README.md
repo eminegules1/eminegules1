@@ -1,5 +1,43 @@
-# 💫 About Me:
-I’m currently working on<br>An AI-based offline disaster navigation system and im working part time in TÜBİTAK Rail Transportation Technologies.<br>I’m looking to collaborate on<br>AI projects, open-source tools, and intelligent systems that can work offline.<br>I’m looking for help with<br>Optimizing pathfinding algorithms and integrating large language models into real-world systems.<br>I’m currently learning<br>Artificial Intelligence, Machine Learning, and advanced pathfinding algorithms.<br>Ask me about<br>Python, AI development, offline systems, and algorithm design.<br>Fun fact<br>I enjoy building intelligent systems that can work even without internet access.
+## 👋 Hello, I'm Emine!
+
+I am a **Software Engineering** student at **Istanbul Atlas University**. I'm passionate about building intelligent, "offline-first" systems that leverage Artificial Intelligence, Image Processing, and advanced algorithms to solve real-world problems in constrained environments.
+
+Currently, I'm gaining professional experience as a **Part-time Candidate Researcher at TÜBİTAK Rail Transportation Technologies (RUTE)**, focusing on critical infrastructure and intelligent transportation.
+
+### 🚀 Current Focus & Projects
+
+* **SearchAgent-GPT:** Developing an offline decision support system for disaster zones. It utilizes a local LLM and the **D* Lite** algorithm for dynamic routing when internet access is unavailable.
+* 
+**Map Area Calculation:** Built a semantic segmentation pipeline using **U-Net** and **ResNet34** to calculate geographic areas from satellite imagery with state-of-the-art precision (**0.8441 mIoU**).
+
+
+* **Offline Intelligence:** Designing AI-powered search engines and navigation tools specifically for closed networks and defense industry applications.
+
+### 🤝 Collaboration & Interests
+
+* 
+**Looking to collaborate on:** Open-source AI tools, offline-capable intelligent systems, and satellite imagery analysis.
+
+
+* **Seeking help with:** Optimizing complex pathfinding algorithms and the efficient integration of LLMs into low-resource or edge devices.
+* **Currently learning:** Advanced Machine Learning architectures, Natural Language Processing (NLP), and sophisticated algorithm design.
+
+### 🛠️ Tech Stack & Skills
+
+* 
+**AI/ML:** PyTorch, Scikit-learn, U-Net, Semantic Segmentation.
+
+
+* 
+**Computer Vision:** OpenCV (Matrix manipulation, Color space transformations, Geometric resampling).
+
+
+* **Embedded & Hardware:** ESP32, Deneyap Kart, and IoT integration.
+* **General:** Python, Algorithm Design, and Offline System Architecture.
+
+### ⚡ Fun Fact
+
+I believe true intelligence shouldn't depend on a Wi-Fi signal. I enjoy building systems that stay "smart" even when the world goes offline!
 
 
 ## 🌐 Socials:
