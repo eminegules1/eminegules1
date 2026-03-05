@@ -7,15 +7,12 @@ Currently, I'm gaining professional experience as a **Part-time Candidate Resear
 ### 🚀 Current Focus & Projects
 
 * **SearchAgent-GPT:** Developing an offline decision support system for disaster zones. It utilizes a local LLM and the **D* Lite** algorithm for dynamic routing when internet access is unavailable.
-* 
 **Map Area Calculation:** Built a semantic segmentation pipeline using **U-Net** and **ResNet34** to calculate geographic areas from satellite imagery with state-of-the-art precision (**0.8441 mIoU**).
 
 
 * **Offline Intelligence:** Designing AI-powered search engines and navigation tools specifically for closed networks and defense industry applications.
 
 ### 🤝 Collaboration & Interests
-
-* 
 **Looking to collaborate on:** Open-source AI tools, offline-capable intelligent systems, and satellite imagery analysis.
 
 
@@ -24,11 +21,8 @@ Currently, I'm gaining professional experience as a **Part-time Candidate Resear
 
 ### 🛠️ Tech Stack & Skills
 
-* 
 **AI/ML:** PyTorch, Scikit-learn, U-Net, Semantic Segmentation.
 
-
-* 
 **Computer Vision:** OpenCV (Matrix manipulation, Color space transformations, Geometric resampling).
 
 
